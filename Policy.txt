@@ -1,17 +1,33 @@
-X Bot Blocker - Policy
-The X Bot Blocker is a Google Chrome extension designed to enhance your Twitter experience by automatically identifying and hiding posts made by bots. This policy outlines the extension's functionality, data handling, and user responsibilities.
+Privacy Policy for the X Bot Blocker Chrome Extension
 
-Functionality
-X Bot Blocker utilizes advanced algorithms to detect and hide posts made by bots on Twitter. It operates in real-time, providing a cleaner and more authentic user experience. The extension does not modify any content; it only hides bot-generated posts from the user's view.
+Effective Date: 2023-12-19
 
-Data Handling
-The extension respects user privacy and data security. It does not store, share, or sell any personal data. X Bot Blocker processes content locally on the user's device and does not transmit data externally.
+Introduction
+Welcome to the X Bot Blocker Chrome Extension. This Privacy Policy explains how we collect, use, and protect your information when you use our extension. Our extension is designed to identify and block bots on Twitter, enhancing your browsing experience.
 
-User Responsibilities
-Users are encouraged to keep the extension updated for optimal performance. The extension's effectiveness depends on the continuously evolving nature of bot detection algorithms. Users should regularly check for updates to ensure they have the latest features and improvements.
+Information Collection
+The X Bot Blocker extension may collect the following types of information:
 
-Limitations
-While X Bot Blocker aims to effectively identify bot-generated content, no algorithm is infallible. There may be instances where legitimate posts are mistakenly hidden or bot posts are not detected. Users should exercise their judgement while using the extension.
+Usage Data: Information on how you interact with the extension, such as settings preferences and frequency of use.
+Twitter Interaction Data: Information related to your interactions with Twitter, necessary for the extension to identify and block bots.
+Use of Information
+The information we collect is used for the following purposes:
 
-Consent
-By installing and using the X Bot Blocker extension, users consent to this policy and agree to its terms. The policy may be updated from time to time, and continued use of the extension constitutes acceptance of these changes.
+To ensure the proper functioning and improvement of the extension.
+To identify and block bots on Twitter.
+To analyze trends and user behavior to enhance the extension's effectiveness.
+Data Storage and Security
+We are committed to protecting your information. The data collected by the extension is stored securely and is only accessed for maintenance and improvement of the extension's functionality.
+
+Data Sharing
+We do not share any personally identifiable information with third parties. Information collected by the extension is solely used for its intended purpose of improving your browsing experience on Twitter.
+
+User Consent
+By using the X Bot Blocker extension, you consent to the collection and use of information as outlined in this policy.
+
+Changes to This Privacy Policy
+We reserve the right to modify this Privacy Policy at any time. Any changes will be posted promptly on this page. Your continued use of the extension after any changes constitutes your acceptance of the new Privacy Policy.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at joaovictorcabral.dev@gmail.com
+
