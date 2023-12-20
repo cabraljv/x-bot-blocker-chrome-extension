@@ -1,0 +1,17 @@
+X Bot Blocker - Policy
+The X Bot Blocker is a Google Chrome extension designed to enhance your Twitter experience by automatically identifying and hiding posts made by bots. This policy outlines the extension's functionality, data handling, and user responsibilities.
+
+Functionality
+X Bot Blocker utilizes advanced algorithms to detect and hide posts made by bots on Twitter. It operates in real-time, providing a cleaner and more authentic user experience. The extension does not modify any content; it only hides bot-generated posts from the user's view.
+
+Data Handling
+The extension respects user privacy and data security. It does not store, share, or sell any personal data. X Bot Blocker processes content locally on the user's device and does not transmit data externally.
+
+User Responsibilities
+Users are encouraged to keep the extension updated for optimal performance. The extension's effectiveness depends on the continuously evolving nature of bot detection algorithms. Users should regularly check for updates to ensure they have the latest features and improvements.
+
+Limitations
+While X Bot Blocker aims to effectively identify bot-generated content, no algorithm is infallible. There may be instances where legitimate posts are mistakenly hidden or bot posts are not detected. Users should exercise their judgement while using the extension.
+
+Consent
+By installing and using the X Bot Blocker extension, users consent to this policy and agree to its terms. The policy may be updated from time to time, and continued use of the extension constitutes acceptance of these changes.
