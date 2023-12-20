@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+  "name": "X Bot Blocker",
+  "version": "0.1",
+  "description": "Um bloqueador de bots do X (twitter)",
+  "permissions": [
+    "https://twitter.com/*",
+    "https://twitter.com/",
+    "unlimitedStorage",
+    "webRequest",
+    "storage"
+  ],
+  "icons": { "128": "src/assets/icon.png" },
+  "background": { "scripts": ["src/background.js"] },
+  "browser_action": {
+    "default_icon": { "38": "src/assets/icon.png" },
+    "default_title": "X Bot Blocker",
+
+    "default_popup": "src/popup/popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/*"],
+      "js": ["src/assets/js/jquery.min.js", "src/pages/twitter/twitter.js"],
+      "css": ["src/pages/twitter/twitter.css"],
+      "run_at": "document_end"
+    }
+  ]
+}
