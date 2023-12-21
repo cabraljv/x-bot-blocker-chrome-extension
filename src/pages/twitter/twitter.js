@@ -44,7 +44,6 @@ async function main(){
   const processTimeline = async () => {
     const reportedUsers = await Storage.get_item('reportedUsers')
 
-    
     let timelineDiv = document.querySelector('[aria-label="Timeline: Your Home Timeline"]')
     if(!timelineDiv) {
       timelineDiv = document.querySelector('[aria-label="Timeline: Conversation"]')
